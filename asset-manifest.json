@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useEffect-API-Task/static/css/main.073c9b0a.css",
+    "main.js": "/useEffect-API-Task/static/js/main.c8085c39.js",
+    "static/js/787.b1380b66.chunk.js": "/useEffect-API-Task/static/js/787.b1380b66.chunk.js",
+    "index.html": "/useEffect-API-Task/index.html",
+    "main.073c9b0a.css.map": "/useEffect-API-Task/static/css/main.073c9b0a.css.map",
+    "main.c8085c39.js.map": "/useEffect-API-Task/static/js/main.c8085c39.js.map",
+    "787.b1380b66.chunk.js.map": "/useEffect-API-Task/static/js/787.b1380b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c8085c39.js"
+  ]
+}
